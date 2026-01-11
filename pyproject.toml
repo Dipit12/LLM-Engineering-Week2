@@ -1,0 +1,10 @@
+[project]
+name = "llm-engineering-week2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "groq>=0.37.1",
+    "langchain-groq>=1.1.1",
+]
